@@ -25,6 +25,8 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
+[View our status website](https://madebythepinshub.github.io/are-we-down) if you want to see the graphs in larger size, among other things.
+
 ## Documentation and links
 
 - For team members, please see TODO.
