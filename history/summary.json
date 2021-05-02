@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/community.madebythepins.tk",
     "slug": "community-forum",
     "status": "down",
-    "uptime": "20.62%",
-    "uptimeDay": "20.62%",
-    "uptimeWeek": "20.62%",
-    "uptimeMonth": "20.62%",
-    "uptimeYear": "20.62%",
+    "uptime": "20.17%",
+    "uptimeDay": "20.17%",
+    "uptimeWeek": "20.17%",
+    "uptimeMonth": "20.17%",
+    "uptimeYear": "20.17%",
     "time": 2357,
     "timeDay": 2357,
     "timeWeek": 2357,
     "timeMonth": 2357,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-05-02": 292
+      "2021-05-02": 301
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://repohubdev.tk",
     "icon": "https://favicons.githubusercontent.com/repohubdev.tk",
     "slug": "lpdm-handbook-hosted-on-divio",
-    "status": "down",
-    "uptime": "97.23%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "97.23%",
-    "uptimeMonth": "97.23%",
-    "uptimeYear": "97.23%",
-    "time": 2795,
-    "timeDay": 2795,
-    "timeWeek": 2795,
-    "timeMonth": 2795,
-    "timeYear": 2795,
+    "status": "up",
+    "uptime": "96.18%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "96.18%",
+    "uptimeMonth": "96.18%",
+    "uptimeYear": "96.18%",
+    "time": 2608,
+    "timeDay": 2608,
+    "timeWeek": 2608,
+    "timeMonth": 2608,
+    "timeYear": 2608,
     "dailyMinutesDown": {
-      "2021-05-02": 21
+      "2021-05-02": 29
     }
   },
   {
