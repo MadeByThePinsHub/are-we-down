@@ -58,18 +58,20 @@
     "url": "https://repohubdev.tk",
     "icon": "https://favicons.githubusercontent.com/repohubdev.tk",
     "slug": "lpdm-handbook-hosted-on-divio",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 380,
-    "timeDay": 380,
-    "timeWeek": 380,
-    "timeMonth": 380,
-    "timeYear": 380,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 2380,
+    "timeDay": 2380,
+    "timeWeek": 2380,
+    "timeMonth": 2380,
+    "timeYear": 2380,
+    "dailyMinutesDown": {
+      "2021-05-02": 0
+    }
   },
   {
     "name": "Bitwarden Vault instance (powered by BitwardenRS on Divio)",
