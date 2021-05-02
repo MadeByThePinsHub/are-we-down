@@ -6,6 +6,8 @@ assignees:
   # ping Andrei Jiroh if he fucked up the monitor
   # aka the servers/DNS records like Linus Sebastian
   - AndreiJirohHaliliDev2006
+  # also ping both the core team and CHN Board members
+  - ThePinsTeam
 
 # Avoid description to get updated
 skipDescriptionUpdate: true
@@ -13,6 +15,8 @@ skipDescriptionUpdate: true
 sites:
   - name: GitLab Pages-hosted Main Website
     url: https://madebythepins.tk
+  - name: Community Forum
+    url: https://community.madebythepins.tk
   - name: Recap Time Website
     url: https://recaptime.tk
   - name: Handbook Website
@@ -23,6 +27,8 @@ sites:
     url: https://vault.madebythepins.tk
   #- name: Bullshit HQ (aka HashiCorp Vault instance)
   #  url: https://bullshit-hq.vault.madebythepins.tk
+  #- name: Code Server Deploy Link Redirects
+  #  url: https://cdrs-deploy.repohubdev.tk/heartbeat
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -32,10 +38,10 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: The Pins Team Infra Status Page
   introTitle: "Are we dropped the servers into the floor or did [Andrei Jiroh](https://github.com/AndreiJirohHaliliDev2006) just Zucked the DNS records?"
-  introMessage: "GitHub Actions will check if we really got fucked up in configuring DNS nameserver and whatever shitfuckery we did. ([**Powered by Upptime.**](https://github.com/upptime/upptime) Also, we're not from [Intellivoid](https://github.com/Intellivoid))"
+  introMessage: "GitHub Actions will check if we really got fucked up in configuring DNS nameservers and whatever shitfuckery we did. ([**Powered by Upptime**](https://github.com/upptime/upptime) btw.)"
   navbar:
     - title: Homepage
-      href: /
+      href: /are-we-down
     - title: Sauce code
       href: https://github.com/$OWNER/$REPO
     - title: Report downtime in GitLab
@@ -45,6 +51,15 @@ commitMessages:
   commitAuthorName: "Recap Time Bot"
   # plz don't spam us uwu
   commitAuthorEmail: "recaptime.madebythepins@gmail.com"
+
+workflowSchedule:
+  graphs: "0 */6 * * *"
+  responseTime: "0 */1 * * *"
+  staticSite: "0 */12 * * *"
+  summary: "0 */6 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "*/15 * * * *"
+  uptime: "*/15 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
