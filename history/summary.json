@@ -58,19 +58,19 @@
     "url": "https://repohubdev.tk",
     "icon": "https://favicons.githubusercontent.com/repohubdev.tk",
     "slug": "lpdm-handbook-hosted-on-divio",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 2380,
-    "timeDay": 2380,
-    "timeWeek": 2380,
-    "timeMonth": 2380,
-    "timeYear": 2380,
+    "status": "up",
+    "uptime": "58.39%",
+    "uptimeDay": "58.39%",
+    "uptimeWeek": "58.39%",
+    "uptimeMonth": "58.39%",
+    "uptimeYear": "58.39%",
+    "time": 1737,
+    "timeDay": 1737,
+    "timeWeek": 1737,
+    "timeMonth": 1737,
+    "timeYear": 1737,
     "dailyMinutesDown": {
-      "2021-05-02": 0
+      "2021-05-02": 21
     }
   },
   {
