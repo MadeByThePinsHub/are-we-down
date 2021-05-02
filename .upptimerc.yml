@@ -1,31 +1,50 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: MadeByThePinsHub # Your GitHub organization or username, where this repository lives
+repo: are-we-down # The name of this repository
+
+assignees:
+  # ping Andrei Jiroh if he fucked up the monitor
+  # aka the servers/DNS records like Linus Sebastian
+  - AndreiJirohHaliliDev2006
+
+# Avoid description to get updated
+skipDescriptionUpdate: true
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: GitLab Pages-hosted Main Website
+    url: https://madebythepins.tk
+  - name: Recap Time Website
+    url: https://recaptime.tk
+  - name: Handbook Website
+    url: https://en.handbooksbythepins.gq
+  - name: LPDM Handbook (hosted on Divio)
+    url: https://repohubdev.tk
+  - name: Bitwarden Vault instance (powered by BitwardenRS on Divio)
+    url: https://vault.madebythepins.tk
+  #- name: Bullshit HQ (aka HashiCorp Vault instance)
+  #  url: https://bullshit-hq.vault.madebythepins.tk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  #cname: demo.upptime.js.org
+  baseUrl: /are-we-down
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: The Pins Team Infra Status Page
+  introTitle: "Are we dropped the servers into the floor or did [Andrei Jiroh](https://github.com/AndreiJirohHaliliDev2006) just Zucked the DNS records?"
+  introMessage: "GitHub Actions will check if we really got fucked up in configuring DNS nameserver and whatever shitfuckery we did. ([**Powered by Upptime.**](https://github.com/upptime/upptime) Also, we're not from [Intellivoid](https://github.com/Intellivoid))"
   navbar:
-    - title: Status
+    - title: Homepage
       href: /
-    - title: GitHub
+    - title: Sauce code
       href: https://github.com/$OWNER/$REPO
+    - title: Report downtime in GitLab
+      href: https://gitlab.com/MadeByThePinsHub/infra-ops/AreWeDown/issues/new
+
+commitMessages:
+  commitAuthorName: "Recap Time Bot"
+  # plz don't spam us uwu
+  commitAuthorEmail: "recaptime.madebythepins@gmail.com"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
