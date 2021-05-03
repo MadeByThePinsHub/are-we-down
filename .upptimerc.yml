@@ -25,6 +25,8 @@ sites:
     url: https://repohubdev.tk
   - name: Bitwarden Vault instance (powered by BitwardenRS on Divio)
     url: https://vault.madebythepins.tk
+  - name: Public Link Shortener (powered by thedevs-network/Kutt)
+    url: https://rtapp.tk
   #- name: Bullshit HQ (aka HashiCorp Vault instance)
   #  url: https://bullshit-hq.vault.madebythepins.tk
   #- name: Code Server Deploy Link Redirects
@@ -36,7 +38,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /are-we-down
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: The Pins Team Infra Status Page
+  name: The Pins Team
   introTitle: "Are we dropped the servers into the floor or did [Andrei Jiroh](https://github.com/AndreiJirohHaliliDev2006) just Zucked the DNS records?"
   introMessage: "GitHub Actions will check if we really got fucked up in configuring DNS nameservers and whatever shitfuckery we did. ([**Powered by Upptime**](https://github.com/upptime/upptime) btw.)"
   navbar:
@@ -53,11 +55,11 @@ commitMessages:
   commitAuthorEmail: "recaptime.madebythepins@gmail.com"
 
 workflowSchedule:
-  graphs: "0 */6 * * *"
+  graphs: "0 */2 * * *"
   responseTime: "0 */1 * * *"
-  staticSite: "0 */12 * * *"
-  summary: "0 */6 * * *"
-  updateTemplate: "0 0 * * *"
+  staticSite: "0 */3 * * *"
+  summary: "0 */3 * * *"
+  updateTemplate: "0 */12 * * *"
   updates: "*/15 * * * *"
   uptime: "*/15 * * * *"
 
