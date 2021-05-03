@@ -1,9 +1,9 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: 'bug'
-assignees: 'AnandChowdhary'
+about: Report an website issue, using this template.
+title: "[website-feedback/bug]"
+labels: bug
+assignees: AndreiJirohHaliliDev2006
 
 ---
 
