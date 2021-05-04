@@ -17,16 +17,21 @@ sites:
     url: https://madebythepins.tk
   - name: Community Forum
     url: https://community.madebythepins.tk
+    maxResponseTime: 5000
   - name: Recap Time Website
     url: https://recaptime.tk
   - name: Handbook Website
     url: https://en.handbooksbythepins.gq
   - name: LPDM Handbook (hosted on Divio)
     url: https://repohubdev.tk
+    # mark as degarded if it's took more than 5 seconds
+    maxResponseTime: 5000
   - name: Bitwarden Vault instance (powered by BitwardenRS on Divio)
     url: https://vault.madebythepins.tk
+    maxResponseTime: 5000
   - name: Public Link Shortener (powered by thedevs-network/Kutt)
     url: https://rtapp.tk
+    maxResponseTime: 3000
   #- name: Bullshit HQ (aka HashiCorp Vault instance)
   #  url: https://bullshit-hq.vault.madebythepins.tk
   #- name: Code Server Deploy Link Redirects
@@ -43,11 +48,11 @@ status-website:
   introMessage: "GitHub Actions will check if we really got fucked up in configuring DNS nameservers and whatever shitfuckery we did. ([**Powered by Upptime**](https://github.com/upptime/upptime) btw.)"
   navbar:
     - title: Homepage
-      href: /are-we-down
+      href: /
     - title: Sauce code
       href: https://github.com/$OWNER/$REPO
-    - title: Report downtime in GitLab
-      href: https://gitlab.com/MadeByThePinsHub/infra-ops/AreWeDown/issues/new
+    - title: Main website
+      href: https://madebythepins.tk
 
 commitMessages:
   commitAuthorName: "Recap Time Bot"
