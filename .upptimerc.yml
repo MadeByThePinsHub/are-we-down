@@ -55,13 +55,13 @@ commitMessages:
   commitAuthorEmail: "recaptime.madebythepins@gmail.com"
 
 workflowSchedule:
-  graphs: "0 */2 * * *"
-  responseTime: "0 */1 * * *"
-  staticSite: "0 */3 * * *"
-  summary: "0 */3 * * *"
-  updateTemplate: "0 */12 * * *"
-  updates: "*/15 * * * *"
-  uptime: "*/15 * * * *"
+  graphs: "*/30 * * * *"
+  responseTime: "15 * * * *"
+  staticSite: "* */2 * * *"
+  summary: "* */2 * * *"
+  updateTemplate: "0 */2 * * *"
+  updates: "*/10 * * * *"
+  uptime: "*/10 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
