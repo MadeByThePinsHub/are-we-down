@@ -4,19 +4,19 @@
     "url": "https://madebythepins.tk",
     "icon": "https://favicons.githubusercontent.com/madebythepins.tk",
     "slug": "git-lab-pages-hosted-main-website",
-    "status": "down",
-    "uptime": "99.01%",
-    "uptimeDay": "93.93%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.01%",
-    "time": 734,
+    "status": "up",
+    "uptime": "98.98%",
+    "uptimeDay": "93.75%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
+    "time": 736,
     "timeDay": 1041,
-    "timeWeek": 734,
-    "timeMonth": 734,
-    "timeYear": 734,
+    "timeWeek": 736,
+    "timeMonth": 736,
+    "timeYear": 736,
     "dailyMinutesDown": {
-      "2021-05-08": 87
+      "2021-05-08": 90
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 2357,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-05-08": 655,
+      "2021-05-08": 657,
       "2021-05-07": 1440,
       "2021-05-06": 1440,
       "2021-05-05": 1440,
