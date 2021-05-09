@@ -27,7 +27,7 @@
     "status": "down",
     "uptime": "0.75%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.75%",
+    "uptimeWeek": "0.63%",
     "uptimeMonth": "0.75%",
     "uptimeYear": "0.75%",
     "time": 2357,
@@ -36,7 +36,7 @@
     "timeMonth": 2357,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-05-09": 874,
+      "2021-05-09": 886,
       "2021-05-08": 1440,
       "2021-05-07": 1440,
       "2021-05-06": 1440,
