@@ -6,7 +6,7 @@
     "slug": "git-lab-pages-hosted-main-website",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "98.75%",
+    "uptimeDay": "99.73%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.12%",
@@ -36,7 +36,7 @@
     "timeMonth": 2357,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-05-09": 639,
+      "2021-05-09": 653,
       "2021-05-08": 1440,
       "2021-05-07": 1440,
       "2021-05-06": 1440,
