@@ -1,9 +1,9 @@
 ---
 name: Submit an scheduled maintenance notice
-about: Describe this issue template's purpose here.
+about: Notify both team members and the public regarding an downtime.
 title: Scheduled maintenance on MM-DD-YYY HH;MM (UTC) for Example GitLab Server's
   database upgrades to Postgres 12
-labels: ''
+labels: 'maintenance'
 assignees: ThePinsTeam, RecapTimeBot
 
 ---
