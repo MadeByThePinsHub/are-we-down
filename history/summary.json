@@ -36,7 +36,7 @@
     "timeMonth": 2357,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-05-18": 1367,
+      "2021-05-18": 1382,
       "2021-05-17": 1440,
       "2021-05-16": 1440,
       "2021-05-15": 1440,
@@ -99,12 +99,12 @@
     "status": "up",
     "uptime": "96.54%",
     "uptimeDay": "98.17%",
-    "uptimeWeek": "95.90%",
+    "uptimeWeek": "95.93%",
     "uptimeMonth": "96.54%",
     "uptimeYear": "96.54%",
     "time": 1790,
     "timeDay": 1442,
-    "timeWeek": 1819,
+    "timeWeek": 1826,
     "timeMonth": 1790,
     "timeYear": 1790,
     "dailyMinutesDown": {
