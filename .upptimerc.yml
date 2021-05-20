@@ -62,7 +62,7 @@ commitMessages:
 workflowSchedule:
   graphs: "*/30 * * * *"
   responseTime: "15 * * * *"
-  staticSite: "* */2 * * *"
+  staticSite: "*/30 * * * *"
   summary: "* */2 * * *"
   updateTemplate: "0 */2 * * *"
   updates: "*/10 * * * *"
