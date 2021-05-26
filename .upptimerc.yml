@@ -36,8 +36,14 @@ sites:
   #  url: https://bullshit-hq.vault.madebythepins.tk
   #- name: Code Server Deploy Link Redirects
   #  url: https://cdrs-deploy.repohubdev.tk/heartbeat
+  - name: Community Lores Website
+    url: https://community-lores.gq
+    maxResponseTime: 3000
 
 status-website:
+  # we love Dark Mode, so we'll set it as default in our status page
+  theme: dark
+  
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
@@ -61,12 +67,12 @@ commitMessages:
 
 workflowSchedule:
   graphs: "*/30 * * * *"
-  responseTime: "15 * * * *"
+  responseTime: "*/15 * * * *"
   staticSite: "*/30 * * * *"
-  summary: "* */2 * * *"
+  summary: "*/30 * * * *"
   updateTemplate: "0 */2 * * *"
   updates: "*/10 * * * *"
-  uptime: "*/10 * * * *"
+  uptime: "*/15 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
