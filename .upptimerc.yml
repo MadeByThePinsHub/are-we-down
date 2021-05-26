@@ -15,13 +15,19 @@ skipDescriptionUpdate: true
 sites:
   - name: GitLab Pages-hosted Main Website
     url: https://madebythepins.tk
+    headers:
+      - "User-Agent: Bullshit HQ Status Reporter/1.0 (powered by Upptime) - API-ID: $BULLSHIT_HQ_API_TOKEN"
   - name: Community Forum
     url: https://community.madebythepins.tk
     maxResponseTime: 5000
   - name: Recap Time Website
     url: https://recaptime.tk
+    headers:
+      - "User-Agent: Bullshit HQ Status Reporter/1.0 (powered by Upptime) - API-ID: $BULLSHIT_HQ_API_TOKEN"
   - name: Handbook Website
     url: https://en.handbooksbythepins.gq
+    headers:
+      - "User-Agent: Bullshit HQ Status Reporter/1.0 (powered by Upptime) - API-ID: $BULLSHIT_HQ_API_TOKEN"
   - name: LPDM Handbook (hosted on Divio)
     url: https://repohubdev.tk
     # mark as degarded if it's took more than 5 seconds
@@ -31,6 +37,8 @@ sites:
     maxResponseTime: 5000
   - name: Public Link Shortener (powered by thedevs-network/Kutt)
     url: https://rtapp.tk
+    headers:
+      - "User-Agent: Bullshit HQ Status Reporter/1.0 (powered by Upptime) - API-ID: $BULLSHIT_HQ_API_TOKEN"
     maxResponseTime: 3000
   #- name: Bullshit HQ (aka HashiCorp Vault instance)
   #  url: https://bullshit-hq.vault.madebythepins.tk
