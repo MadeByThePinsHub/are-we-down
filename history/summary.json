@@ -12,7 +12,7 @@
     "uptimeYear": "99.80%",
     "time": 665,
     "timeDay": 825,
-    "timeWeek": 660,
+    "timeWeek": 661,
     "timeMonth": 665,
     "timeYear": 665,
     "dailyMinutesDown": {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-06-02": 1204,
+      "2021-06-02": 1247,
       "2021-06-01": 1440,
       "2021-05-31": 1440,
       "2021-05-30": 1440,
@@ -83,7 +83,7 @@
     "uptimeYear": "100.00%",
     "time": 372,
     "timeDay": 536,
-    "timeWeek": 392,
+    "timeWeek": 393,
     "timeMonth": 373,
     "timeYear": 372,
     "dailyMinutesDown": {}
@@ -101,8 +101,8 @@
     "uptimeYear": "99.78%",
     "time": 712,
     "timeDay": 873,
-    "timeWeek": 787,
-    "timeMonth": 714,
+    "timeWeek": 785,
+    "timeMonth": 715,
     "timeYear": 712,
     "dailyMinutesDown": {
       "2021-06-02": 101
@@ -113,17 +113,17 @@
     "url": "https://repohubdev.tk",
     "icon": "https://favicons.githubusercontent.com/repohubdev.tk",
     "slug": "lpdm-handbook-hosted-on-divio",
-    "status": "up",
-    "uptime": "95.82%",
-    "uptimeDay": "94.18%",
-    "uptimeWeek": "93.01%",
-    "uptimeMonth": "95.67%",
-    "uptimeYear": "95.82%",
-    "time": 1815,
-    "timeDay": 2815,
-    "timeWeek": 1879,
-    "timeMonth": 1812,
-    "timeYear": 1815,
+    "status": "degraded",
+    "uptime": "95.85%",
+    "uptimeDay": "94.17%",
+    "uptimeWeek": "93.12%",
+    "uptimeMonth": "95.70%",
+    "uptimeYear": "95.85%",
+    "time": 1820,
+    "timeDay": 3005,
+    "timeWeek": 1915,
+    "timeMonth": 1806,
+    "timeYear": 1820,
     "dailyMinutesDown": {
       "2021-06-02": 84,
       "2021-06-01": 50,
@@ -148,7 +148,7 @@
       "2021-05-12": 30,
       "2021-05-11": 86,
       "2021-05-10": 26,
-      "2021-05-07": 26
+      "2021-05-07": 16
     }
   },
   {
@@ -164,7 +164,7 @@
     "uptimeYear": "100.00%",
     "time": 456,
     "timeDay": 516,
-    "timeWeek": 435,
+    "timeWeek": 438,
     "timeMonth": 457,
     "timeYear": 456,
     "dailyMinutesDown": {}
@@ -200,7 +200,7 @@
     "uptimeYear": "99.72%",
     "time": 491,
     "timeDay": 409,
-    "timeWeek": 476,
+    "timeWeek": 474,
     "timeMonth": 491,
     "timeYear": 491,
     "dailyMinutesDown": {
