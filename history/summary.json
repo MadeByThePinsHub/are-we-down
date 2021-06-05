@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-06-05": 374,
+      "2021-06-05": 420,
       "2021-06-04": 1440,
       "2021-06-03": 1440,
       "2021-06-02": 1440,
@@ -125,7 +125,7 @@
     "time": 1820,
     "timeDay": 1432,
     "timeWeek": 1934,
-    "timeMonth": 1769,
+    "timeMonth": 1771,
     "timeYear": 1820,
     "dailyMinutesDown": {
       "2021-06-05": 25,
