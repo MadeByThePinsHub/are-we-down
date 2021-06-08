@@ -8,11 +8,11 @@
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.83%",
     "time": 660,
-    "timeDay": 645,
-    "timeWeek": 647,
+    "timeDay": 639,
+    "timeWeek": 646,
     "timeMonth": 649,
     "timeYear": 660,
     "dailyMinutesDown": {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-06-08": 622,
+      "2021-06-08": 632,
       "2021-06-07": 1440,
       "2021-06-06": 1440,
       "2021-06-05": 1440,
@@ -81,19 +81,19 @@
     "url": "https://recaptime.tk",
     "icon": "https://favicons.githubusercontent.com/recaptime.tk",
     "slug": "recap-time-website",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 375,
-    "timeDay": 336,
+    "timeDay": 342,
     "timeWeek": 420,
     "timeMonth": 376,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2021-06-08": 22
+      "2021-06-08": 32
     }
   },
   {
@@ -107,11 +107,11 @@
     "uptimeWeek": "99.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.81%",
-    "time": 697,
-    "timeDay": 544,
-    "timeWeek": 637,
+    "time": 696,
+    "timeDay": 538,
+    "timeWeek": 635,
     "timeMonth": 716,
-    "timeYear": 697,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2021-06-02": 101
     }
@@ -121,18 +121,19 @@
     "url": "https://repohubdev.tk",
     "icon": "https://favicons.githubusercontent.com/repohubdev.tk",
     "slug": "lpdm-handbook-hosted-on-divio",
-    "status": "up",
+    "status": "degraded",
     "uptime": "96.26%",
-    "uptimeDay": "99.12%",
+    "uptimeDay": "99.10%",
     "uptimeWeek": "96.32%",
     "uptimeMonth": "95.44%",
     "uptimeYear": "96.26%",
-    "time": 1770,
-    "timeDay": 969,
-    "timeWeek": 1650,
-    "timeMonth": 1724,
-    "timeYear": 1770,
+    "time": 1775,
+    "timeDay": 1156,
+    "timeWeek": 1680,
+    "timeMonth": 1730,
+    "timeYear": 1775,
     "dailyMinutesDown": {
+      "2021-06-08": 0,
       "2021-06-07": 78,
       "2021-06-05": 25,
       "2021-06-04": 11,
@@ -157,7 +158,7 @@
       "2021-05-15": 88,
       "2021-05-14": 67,
       "2021-05-13": 65,
-      "2021-05-12": 30
+      "2021-05-12": 28
     }
   },
   {
@@ -172,8 +173,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 459,
-    "timeDay": 477,
-    "timeWeek": 474,
+    "timeDay": 470,
+    "timeWeek": 473,
     "timeMonth": 468,
     "timeYear": 459,
     "dailyMinutesDown": {}
@@ -189,11 +190,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 533,
-    "timeWeek": 543,
+    "time": 488,
+    "timeDay": 537,
+    "timeWeek": 544,
     "timeMonth": 501,
-    "timeYear": 487,
+    "timeYear": 488,
     "dailyMinutesDown": {}
   },
   {
@@ -208,8 +209,8 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
     "time": 486,
-    "timeDay": 518,
-    "timeWeek": 466,
+    "timeDay": 512,
+    "timeWeek": 465,
     "timeMonth": 486,
     "timeYear": 486,
     "dailyMinutesDown": {
