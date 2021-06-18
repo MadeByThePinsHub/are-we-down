@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-06-18": 870,
+      "2021-06-18": 880,
       "2021-06-17": 1440,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
@@ -140,7 +140,7 @@
     "time": 1538,
     "timeDay": 1272,
     "timeWeek": 1159,
-    "timeMonth": 1438,
+    "timeMonth": 1439,
     "timeYear": 1538,
     "dailyMinutesDown": {
       "2021-06-18": 28,
@@ -185,7 +185,7 @@
     "time": 489,
     "timeDay": 508,
     "timeWeek": 548,
-    "timeMonth": 510,
+    "timeMonth": 509,
     "timeYear": 489,
     "dailyMinutesDown": {}
   },
