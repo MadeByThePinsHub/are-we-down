@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 797,
-    "timeDay": 928,
+    "time": 796,
+    "timeDay": 916,
     "timeWeek": 971,
-    "timeMonth": 842,
-    "timeYear": 797,
+    "timeMonth": 841,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2021-05-08": 90
     }
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-06-20": 523,
+      "2021-06-20": 550,
       "2021-06-19": 1440,
       "2021-06-18": 1440,
       "2021-06-17": 1440,
@@ -99,11 +99,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
-    "time": 485,
+    "time": 486,
     "timeDay": 622,
-    "timeWeek": 624,
-    "timeMonth": 531,
-    "timeYear": 485,
+    "timeWeek": 626,
+    "timeMonth": 532,
+    "timeYear": 486,
     "dailyMinutesDown": {
       "2021-06-08": 32
     }
@@ -120,7 +120,7 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.86%",
     "time": 711,
-    "timeDay": 817,
+    "timeDay": 773,
     "timeWeek": 797,
     "timeMonth": 732,
     "timeYear": 711,
@@ -133,16 +133,16 @@
     "url": "https://repohubdev.tk",
     "icon": "https://favicons.githubusercontent.com/repohubdev.tk",
     "slug": "lpdm-handbook-hosted-on-divio",
-    "status": "up",
-    "uptime": "97.53%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "96.02%",
-    "uptimeYear": "97.53%",
+    "status": "down",
+    "uptime": "97.56%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "96.06%",
+    "uptimeYear": "97.56%",
     "time": 1506,
-    "timeDay": 1264,
-    "timeWeek": 1141,
-    "timeMonth": 1369,
+    "timeDay": 1262,
+    "timeWeek": 1143,
+    "timeMonth": 1370,
     "timeYear": 1506,
     "dailyMinutesDown": {
       "2021-06-20": 6,
@@ -171,7 +171,7 @@
       "2021-05-24": 6,
       "2021-05-23": 80,
       "2021-05-22": 77,
-      "2021-05-21": 30
+      "2021-05-21": 14
     }
   },
   {
@@ -186,8 +186,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 499,
-    "timeDay": 564,
-    "timeWeek": 579,
+    "timeDay": 570,
+    "timeWeek": 578,
     "timeMonth": 519,
     "timeYear": 499,
     "dailyMinutesDown": {}
@@ -204,9 +204,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 544,
-    "timeDay": 669,
+    "timeDay": 655,
     "timeWeek": 614,
-    "timeMonth": 587,
+    "timeMonth": 586,
     "timeYear": 544,
     "dailyMinutesDown": {}
   },
@@ -221,11 +221,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 540,
-    "timeDay": 463,
-    "timeWeek": 556,
-    "timeMonth": 540,
-    "timeYear": 540,
+    "time": 539,
+    "timeDay": 453,
+    "timeWeek": 550,
+    "timeMonth": 539,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2021-05-29": 30
     }
