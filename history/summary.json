@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-06-20": 516,
+      "2021-06-20": 523,
       "2021-06-19": 1440,
       "2021-06-18": 1440,
       "2021-06-17": 1440,
@@ -122,7 +122,7 @@
     "time": 711,
     "timeDay": 817,
     "timeWeek": 797,
-    "timeMonth": 733,
+    "timeMonth": 732,
     "timeYear": 711,
     "dailyMinutesDown": {
       "2021-06-02": 101
@@ -142,7 +142,7 @@
     "time": 1506,
     "timeDay": 1264,
     "timeWeek": 1141,
-    "timeMonth": 1372,
+    "timeMonth": 1369,
     "timeYear": 1506,
     "dailyMinutesDown": {
       "2021-06-20": 6,
@@ -206,7 +206,7 @@
     "time": 544,
     "timeDay": 669,
     "timeWeek": 614,
-    "timeMonth": 588,
+    "timeMonth": 587,
     "timeYear": 544,
     "dailyMinutesDown": {}
   },
