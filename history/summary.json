@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 806,
-    "timeDay": 1042,
-    "timeWeek": 980,
-    "timeMonth": 856,
-    "timeYear": 806,
+    "time": 807,
+    "timeDay": 1069,
+    "timeWeek": 984,
+    "timeMonth": 858,
+    "timeYear": 807,
     "dailyMinutesDown": {
       "2021-05-08": 90
     }
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-06-21": 341,
+      "2021-06-21": 380,
       "2021-06-20": 1440,
       "2021-06-19": 1440,
       "2021-06-18": 1440,
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
-    "time": 496,
-    "timeDay": 737,
-    "timeWeek": 644,
+    "time": 495,
+    "timeDay": 728,
+    "timeWeek": 640,
     "timeMonth": 547,
-    "timeYear": 496,
+    "timeYear": 495,
     "dailyMinutesDown": {
       "2021-06-08": 32
     }
@@ -121,8 +121,8 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.86%",
     "time": 726,
-    "timeDay": 1107,
-    "timeWeek": 849,
+    "timeDay": 1105,
+    "timeWeek": 850,
     "timeMonth": 752,
     "timeYear": 726,
     "dailyMinutesDown": {
@@ -136,15 +136,15 @@
     "slug": "lpdm-handbook-hosted-on-divio",
     "status": "up",
     "uptime": "97.59%",
-    "uptimeDay": "99.31%",
+    "uptimeDay": "99.73%",
     "uptimeWeek": "98.73%",
     "uptimeMonth": "96.05%",
     "uptimeYear": "97.59%",
-    "time": 1490,
-    "timeDay": 1057,
+    "time": 1488,
+    "timeDay": 1002,
     "timeWeek": 1125,
-    "timeMonth": 1348,
-    "timeYear": 1490,
+    "timeMonth": 1347,
+    "timeYear": 1488,
     "dailyMinutesDown": {
       "2021-06-20": 10,
       "2021-06-19": 11,
@@ -186,11 +186,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 501,
-    "timeDay": 568,
-    "timeWeek": 574,
+    "time": 500,
+    "timeDay": 551,
+    "timeWeek": 573,
     "timeMonth": 521,
-    "timeYear": 501,
+    "timeYear": 500,
     "dailyMinutesDown": {}
   },
   {
@@ -205,8 +205,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 547,
-    "timeDay": 665,
-    "timeWeek": 615,
+    "timeDay": 669,
+    "timeWeek": 613,
     "timeMonth": 591,
     "timeYear": 547,
     "dailyMinutesDown": {}
@@ -222,11 +222,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 547,
+    "time": 546,
     "timeDay": 664,
-    "timeWeek": 554,
-    "timeMonth": 547,
-    "timeYear": 547,
+    "timeWeek": 553,
+    "timeMonth": 546,
+    "timeYear": 546,
     "dailyMinutesDown": {
       "2021-05-29": 30
     }
