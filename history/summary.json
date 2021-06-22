@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 803,
-    "timeDay": 759,
-    "timeWeek": 932,
+    "timeDay": 755,
+    "timeWeek": 931,
     "timeMonth": 855,
     "timeYear": 803,
     "dailyMinutesDown": {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-06-22": 1335,
+      "2021-06-22": 1350,
       "2021-06-21": 1440,
       "2021-06-20": 1440,
       "2021-06-19": 1440,
@@ -103,7 +103,7 @@
     "uptimeYear": "99.96%",
     "time": 487,
     "timeDay": 358,
-    "timeWeek": 573,
+    "timeWeek": 572,
     "timeMonth": 537,
     "timeYear": 487,
     "dailyMinutesDown": {
@@ -122,8 +122,8 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.86%",
     "time": 718,
-    "timeDay": 606,
-    "timeWeek": 836,
+    "timeDay": 608,
+    "timeWeek": 835,
     "timeMonth": 735,
     "timeYear": 718,
     "dailyMinutesDown": {
@@ -135,17 +135,17 @@
     "url": "https://repohubdev.tk",
     "icon": "https://favicons.githubusercontent.com/repohubdev.tk",
     "slug": "lpdm-handbook-hosted-on-divio",
-    "status": "up",
+    "status": "degraded",
     "uptime": "97.87%",
-    "uptimeDay": "98.10%",
+    "uptimeDay": "98.08%",
     "uptimeWeek": "98.75%",
-    "uptimeMonth": "96.38%",
+    "uptimeMonth": "96.39%",
     "uptimeYear": "97.87%",
-    "time": 1440,
-    "timeDay": 791,
-    "timeWeek": 1022,
-    "timeMonth": 1275,
-    "timeYear": 1440,
+    "time": 1443,
+    "timeDay": 887,
+    "timeWeek": 1036,
+    "timeMonth": 1279,
+    "timeYear": 1443,
     "dailyMinutesDown": {
       "2021-06-22": 27,
       "2021-06-20": 10,
@@ -170,8 +170,7 @@
       "2021-05-28": 126,
       "2021-05-27": 257,
       "2021-05-26": 116,
-      "2021-05-25": 214,
-      "2021-05-24": 6
+      "2021-05-25": 214
     }
   },
   {
@@ -186,8 +185,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 498,
-    "timeDay": 494,
-    "timeWeek": 546,
+    "timeDay": 488,
+    "timeWeek": 545,
     "timeMonth": 518,
     "timeYear": 498,
     "dailyMinutesDown": {}
@@ -204,8 +203,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 546,
-    "timeDay": 528,
-    "timeWeek": 596,
+    "timeDay": 532,
+    "timeWeek": 597,
     "timeMonth": 588,
     "timeYear": 546,
     "dailyMinutesDown": {}
@@ -222,8 +221,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 536,
-    "timeDay": 438,
-    "timeWeek": 541,
+    "timeDay": 437,
+    "timeWeek": 540,
     "timeMonth": 536,
     "timeYear": 536,
     "dailyMinutesDown": {
