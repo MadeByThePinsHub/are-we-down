@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 797,
-    "timeDay": 765,
-    "timeWeek": 877,
+    "timeDay": 761,
+    "timeWeek": 876,
     "timeMonth": 849,
     "timeYear": 797,
     "dailyMinutesDown": {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-06-24": 1226,
+      "2021-06-24": 1234,
       "2021-06-23": 1440,
       "2021-06-22": 1440,
       "2021-06-21": 1440,
@@ -104,9 +104,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
     "time": 476,
-    "timeDay": 344,
-    "timeWeek": 508,
-    "timeMonth": 524,
+    "timeDay": 339,
+    "timeWeek": 506,
+    "timeMonth": 523,
     "timeYear": 476,
     "dailyMinutesDown": {
       "2021-06-08": 32
@@ -124,9 +124,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.87%",
     "time": 710,
-    "timeDay": 615,
-    "timeWeek": 797,
-    "timeMonth": 723,
+    "timeDay": 610,
+    "timeWeek": 796,
+    "timeMonth": 722,
     "timeYear": 710,
     "dailyMinutesDown": {
       "2021-06-02": 101
@@ -143,11 +143,11 @@
     "uptimeWeek": "98.58%",
     "uptimeMonth": "96.66%",
     "uptimeYear": "98.10%",
-    "time": 1398,
-    "timeDay": 933,
+    "time": 1397,
+    "timeDay": 929,
     "timeWeek": 922,
-    "timeMonth": 1230,
-    "timeYear": 1398,
+    "timeMonth": 1229,
+    "timeYear": 1397,
     "dailyMinutesDown": {
       "2021-06-24": 49,
       "2021-06-23": 11,
@@ -189,8 +189,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 496,
-    "timeDay": 444,
-    "timeWeek": 526,
+    "timeDay": 438,
+    "timeWeek": 523,
     "timeMonth": 512,
     "timeYear": 496,
     "dailyMinutesDown": {}
@@ -200,7 +200,7 @@
     "url": "https://rtapp.tk",
     "icon": "https://favicons.githubusercontent.com/rtapp.tk",
     "slug": "public-link-shortener-powered-by-thedevs-network-kutt",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -224,11 +224,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 532,
-    "timeDay": 548,
+    "time": 531,
+    "timeDay": 546,
     "timeWeek": 516,
-    "timeMonth": 532,
-    "timeYear": 532,
+    "timeMonth": 531,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2021-05-29": 30
     }
