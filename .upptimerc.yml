@@ -5,7 +5,7 @@ repo: are-we-down # The name of this repository
 assignees:
   # ping Andrei Jiroh if he fucked up the monitor
   # aka the servers/DNS records like Linus Sebastian
-  - AndreiJirohHaliliDev2006
+  - ajhalili2006
   # also ping both the core team and CHN Board members
   - ThePinsTeam
 
