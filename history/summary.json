@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 774,
-    "timeDay": 604,
+    "timeDay": 606,
     "timeWeek": 667,
-    "timeMonth": 817,
+    "timeMonth": 818,
     "timeYear": 774,
     "dailyMinutesDown": {
       "2021-05-08": 90
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-06-29": 617,
+      "2021-06-29": 642,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
       "2021-06-26": 1440,
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 463,
-    "timeDay": 314,
-    "timeWeek": 375,
+    "time": 462,
+    "timeDay": 310,
+    "timeWeek": 374,
     "timeMonth": 502,
-    "timeYear": 463,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2021-06-08": 32
     }
@@ -129,9 +129,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.88%",
     "time": 708,
-    "timeDay": 658,
+    "timeDay": 662,
     "timeWeek": 668,
-    "timeMonth": 711,
+    "timeMonth": 710,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2021-06-02": 101
@@ -143,11 +143,11 @@
     "icon": "https://favicons.githubusercontent.com/repohubdev.tk",
     "slug": "lpdm-handbook-hosted-on-divio",
     "status": "up",
-    "uptime": "97.93%",
+    "uptime": "97.94%",
     "uptimeDay": "98.63%",
     "uptimeWeek": "94.07%",
     "uptimeMonth": "96.88%",
-    "uptimeYear": "97.93%",
+    "uptimeYear": "97.94%",
     "time": 1308,
     "timeDay": 818,
     "timeWeek": 815,
@@ -197,9 +197,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 482,
-    "timeDay": 373,
-    "timeWeek": 429,
-    "timeMonth": 491,
+    "timeDay": 388,
+    "timeWeek": 430,
+    "timeMonth": 492,
     "timeYear": 482,
     "dailyMinutesDown": {}
   },
@@ -217,7 +217,7 @@
     "time": 547,
     "timeDay": 0,
     "timeWeek": 548,
-    "timeMonth": 584,
+    "timeMonth": 585,
     "timeYear": 547,
     "dailyMinutesDown": {}
   },
@@ -232,11 +232,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
-    "time": 517,
-    "timeDay": 459,
+    "time": 516,
+    "timeDay": 458,
     "timeWeek": 467,
     "timeMonth": 514,
-    "timeYear": 517,
+    "timeYear": 516,
     "dailyMinutesDown": {
       "2021-05-29": 30
     }
