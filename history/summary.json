@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 770,
-    "timeDay": 648,
+    "timeDay": 658,
     "timeWeek": 664,
-    "timeMonth": 813,
+    "timeMonth": 812,
     "timeYear": 770,
     "dailyMinutesDown": {
       "2021-05-08": 90
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-06-30": 584,
+      "2021-06-30": 617,
       "2021-06-29": 1440,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 461,
-    "timeDay": 399,
-    "timeWeek": 381,
-    "timeMonth": 499,
-    "timeYear": 461,
+    "time": 460,
+    "timeDay": 396,
+    "timeWeek": 380,
+    "timeMonth": 498,
+    "timeYear": 460,
     "dailyMinutesDown": {
       "2021-06-08": 32
     }
@@ -130,9 +130,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.88%",
     "time": 702,
-    "timeDay": 513,
+    "timeDay": 508,
     "timeWeek": 652,
-    "timeMonth": 702,
+    "timeMonth": 701,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2021-06-02": 101
@@ -150,7 +150,7 @@
     "uptimeMonth": "96.93%",
     "uptimeYear": "98.08%",
     "time": 1295,
-    "timeDay": 825,
+    "timeDay": 838,
     "timeWeek": 791,
     "timeMonth": 1058,
     "timeYear": 1295,
@@ -199,9 +199,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 480,
-    "timeDay": 448,
-    "timeWeek": 414,
-    "timeMonth": 491,
+    "timeDay": 434,
+    "timeWeek": 412,
+    "timeMonth": 490,
     "timeYear": 480,
     "dailyMinutesDown": {}
   },
@@ -218,7 +218,7 @@
     "uptimeYear": "100.00%",
     "time": 547,
     "timeDay": 0,
-    "timeWeek": 541,
+    "timeWeek": 544,
     "timeMonth": 586,
     "timeYear": 547,
     "dailyMinutesDown": {}
@@ -235,7 +235,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 517,
-    "timeDay": 527,
+    "timeDay": 516,
     "timeWeek": 475,
     "timeMonth": 515,
     "timeYear": 517,
