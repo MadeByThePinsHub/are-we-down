@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 770,
-    "timeDay": 729,
-    "timeWeek": 670,
+    "timeDay": 725,
+    "timeWeek": 669,
     "timeMonth": 812,
     "timeYear": 770,
     "dailyMinutesDown": {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-06-30": 1065,
+      "2021-06-30": 1099,
       "2021-06-29": 1440,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
@@ -110,9 +110,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
     "time": 459,
-    "timeDay": 402,
+    "timeDay": 410,
     "timeWeek": 381,
-    "timeMonth": 498,
+    "timeMonth": 497,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2021-06-08": 32
@@ -130,9 +130,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.88%",
     "time": 701,
-    "timeDay": 578,
-    "timeWeek": 655,
-    "timeMonth": 700,
+    "timeDay": 574,
+    "timeWeek": 654,
+    "timeMonth": 699,
     "timeYear": 701,
     "dailyMinutesDown": {
       "2021-06-02": 101
@@ -150,8 +150,8 @@
     "uptimeMonth": "96.90%",
     "uptimeYear": "98.09%",
     "time": 1291,
-    "timeDay": 994,
-    "timeWeek": 807,
+    "timeDay": 1007,
+    "timeWeek": 808,
     "timeMonth": 1049,
     "timeYear": 1291,
     "dailyMinutesDown": {
@@ -199,9 +199,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 480,
-    "timeDay": 465,
-    "timeWeek": 417,
-    "timeMonth": 491,
+    "timeDay": 462,
+    "timeWeek": 415,
+    "timeMonth": 490,
     "timeYear": 480,
     "dailyMinutesDown": {}
   },
@@ -218,7 +218,7 @@
     "uptimeYear": "100.00%",
     "time": 547,
     "timeDay": 0,
-    "timeWeek": 547,
+    "timeWeek": 549,
     "timeMonth": 585,
     "timeYear": 547,
     "dailyMinutesDown": {}
@@ -235,9 +235,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 517,
-    "timeDay": 532,
-    "timeWeek": 483,
-    "timeMonth": 516,
+    "timeDay": 529,
+    "timeWeek": 484,
+    "timeMonth": 517,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2021-05-29": 30
