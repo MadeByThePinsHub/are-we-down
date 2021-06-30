@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 770,
-    "timeDay": 626,
-    "timeWeek": 661,
-    "timeMonth": 812,
+    "timeDay": 647,
+    "timeWeek": 664,
+    "timeMonth": 813,
     "timeYear": 770,
     "dailyMinutesDown": {
       "2021-05-08": 90
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-06-30": 521,
+      "2021-06-30": 557,
       "2021-06-29": 1440,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 459,
-    "timeDay": 325,
-    "timeWeek": 371,
-    "timeMonth": 496,
-    "timeYear": 459,
+    "time": 460,
+    "timeDay": 380,
+    "timeWeek": 378,
+    "timeMonth": 498,
+    "timeYear": 460,
     "dailyMinutesDown": {
       "2021-06-08": 32
     }
@@ -130,9 +130,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.88%",
     "time": 702,
-    "timeDay": 507,
+    "timeDay": 506,
     "timeWeek": 652,
-    "timeMonth": 702,
+    "timeMonth": 701,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2021-06-02": 101
@@ -146,12 +146,12 @@
     "status": "up",
     "uptime": "98.08%",
     "uptimeDay": "98.51%",
-    "uptimeWeek": "94.06%",
+    "uptimeWeek": "94.10%",
     "uptimeMonth": "96.93%",
     "uptimeYear": "98.08%",
     "time": 1295,
-    "timeDay": 801,
-    "timeWeek": 796,
+    "timeDay": 808,
+    "timeWeek": 789,
     "timeMonth": 1061,
     "timeYear": 1295,
     "dailyMinutesDown": {
@@ -199,9 +199,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 480,
-    "timeDay": 426,
-    "timeWeek": 412,
-    "timeMonth": 490,
+    "timeDay": 445,
+    "timeWeek": 414,
+    "timeMonth": 491,
     "timeYear": 480,
     "dailyMinutesDown": {}
   },
@@ -218,7 +218,7 @@
     "uptimeYear": "100.00%",
     "time": 547,
     "timeDay": 0,
-    "timeWeek": 540,
+    "timeWeek": 541,
     "timeMonth": 586,
     "timeYear": 547,
     "dailyMinutesDown": {}
@@ -235,7 +235,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 517,
-    "timeDay": 528,
+    "timeDay": 526,
     "timeWeek": 475,
     "timeMonth": 515,
     "timeYear": 517,
