@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 761,
-    "timeDay": 654,
+    "timeDay": 651,
     "timeWeek": 722,
-    "timeMonth": 804,
+    "timeMonth": 803,
     "timeYear": 761,
     "dailyMinutesDown": {
       "2021-05-08": 90
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-07-07": 618,
+      "2021-07-07": 641,
       "2021-07-06": 1440,
       "2021-07-05": 1440,
       "2021-07-04": 1440,
@@ -116,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 445,
+    "time": 446,
     "timeDay": 496,
-    "timeWeek": 377,
+    "timeWeek": 379,
     "timeMonth": 474,
-    "timeYear": 445,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2021-06-08": 32
     }
@@ -137,8 +137,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 699,
-    "timeDay": 690,
-    "timeWeek": 687,
+    "timeDay": 683,
+    "timeWeek": 688,
     "timeMonth": 698,
     "timeYear": 699,
     "dailyMinutesDown": {
@@ -152,14 +152,14 @@
     "slug": "lpdm-handbook-hosted-on-divio",
     "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "97.98%",
+    "uptimeDay": "98.24%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "97.45%",
     "uptimeYear": "98.72%",
     "time": 1216,
-    "timeDay": 922,
+    "timeDay": 860,
     "timeWeek": 848,
-    "timeMonth": 943,
+    "timeMonth": 942,
     "timeYear": 1216,
     "dailyMinutesDown": {
       "2021-07-07": 20,
@@ -206,9 +206,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 474,
-    "timeDay": 461,
+    "timeDay": 464,
     "timeWeek": 447,
-    "timeMonth": 481,
+    "timeMonth": 480,
     "timeYear": 474,
     "dailyMinutesDown": {}
   },
@@ -242,9 +242,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 519,
-    "timeDay": 425,
+    "timeDay": 422,
     "timeWeek": 527,
-    "timeMonth": 524,
+    "timeMonth": 523,
     "timeYear": 519,
     "dailyMinutesDown": {
       "2021-05-29": 30
