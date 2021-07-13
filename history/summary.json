@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 762,
-    "timeDay": 937,
-    "timeWeek": 759,
+    "time": 763,
+    "timeDay": 944,
+    "timeWeek": 761,
     "timeMonth": 780,
-    "timeYear": 762,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2021-05-08": 90
     }
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-07-13": 876,
+      "2021-07-13": 918,
       "2021-07-12": 1440,
       "2021-07-11": 1440,
       "2021-07-10": 1440,
@@ -123,9 +123,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 441,
-    "timeDay": 469,
-    "timeWeek": 417,
-    "timeMonth": 445,
+    "timeDay": 487,
+    "timeWeek": 420,
+    "timeMonth": 444,
     "timeYear": 441,
     "dailyMinutesDown": {
       "2021-06-08": 32
@@ -144,7 +144,7 @@
     "uptimeYear": "99.90%",
     "time": 698,
     "timeDay": 646,
-    "timeWeek": 687,
+    "timeWeek": 689,
     "timeMonth": 708,
     "timeYear": 698,
     "dailyMinutesDown": {
@@ -157,15 +157,15 @@
     "icon": "https://favicons.githubusercontent.com/repohubdev.tk",
     "slug": "lpdm-handbook-hosted-on-divio",
     "status": "up",
-    "uptime": "97.42%",
-    "uptimeDay": "55.93%",
+    "uptime": "97.43%",
+    "uptimeDay": "58.83%",
     "uptimeWeek": "84.05%",
     "uptimeMonth": "94.18%",
-    "uptimeYear": "97.42%",
+    "uptimeYear": "97.43%",
     "time": 1165,
-    "timeDay": 1001,
-    "timeWeek": 843,
-    "timeMonth": 881,
+    "timeDay": 999,
+    "timeWeek": 835,
+    "timeMonth": 882,
     "timeYear": 1165,
     "dailyMinutesDown": {
       "2021-07-13": 377,
@@ -215,7 +215,7 @@
     "uptimeYear": "100.00%",
     "time": 475,
     "timeDay": 496,
-    "timeWeek": 484,
+    "timeWeek": 482,
     "timeMonth": 479,
     "timeYear": 475,
     "dailyMinutesDown": {}
@@ -250,9 +250,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 517,
-    "timeDay": 527,
-    "timeWeek": 494,
-    "timeMonth": 512,
+    "timeDay": 528,
+    "timeWeek": 496,
+    "timeMonth": 511,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2021-05-29": 30
