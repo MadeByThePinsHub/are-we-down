@@ -32,8 +32,11 @@ sites:
     url: https://repohubdev.tk
     # mark as degarded if it's took more than 5 seconds
     maxResponseTime: 5000
-  - name: Bitwarden Vault instance (powered by BitwardenRS on Divio)
-    url: https://vault.madebythepins.tk
+  - name: Bitwarden Vault instance (powered by Vaultwarden on Railway)
+    # https://github.com/dani-garcia/vaultwarden/blob/main/docker/healthcheck.sh#L53
+    url: https://thepinsteam-vaultwarden-app.up.railway.app/alive
+    headers:
+      - "x-upptime-repo: https://github.com/MadeByThePinsHub/are-we-down" # Just in case Railway team is kinda sus with us
     maxResponseTime: 5000
   - name: Public Link Shortener (powered by thedevs-network/Kutt)
     url: https://rtapp.tk
