@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2021-10-05": 1101,
+      "2021-10-05": 1117,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
       "2021-10-02": 1440,
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2021-10-05": 1102,
+      "2021-10-05": 1117,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
       "2021-10-02": 1440,
@@ -266,7 +266,7 @@
     "timeMonth": 0,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2021-10-05": 1102,
+      "2021-10-05": 1118,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
       "2021-10-02": 1440,
@@ -365,7 +365,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 815,
-    "timeDay": 908,
+    "timeDay": 906,
     "timeWeek": 753,
     "timeMonth": 731,
     "timeYear": 815,
@@ -380,19 +380,19 @@
     "url": "https://repohubdev.tk",
     "icon": "https://favicons.githubusercontent.com/repohubdev.tk",
     "slug": "lpdm-handbook-hosted-on-divio",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.06%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.33%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.31%",
     "uptimeMonth": "96.19%",
     "uptimeYear": "98.06%",
-    "time": 966,
-    "timeDay": 675,
-    "timeWeek": 796,
-    "timeMonth": 770,
-    "timeYear": 966,
+    "time": 967,
+    "timeDay": 779,
+    "timeWeek": 811,
+    "timeMonth": 774,
+    "timeYear": 967,
     "dailyMinutesDown": {
-      "2021-10-05": 9,
+      "2021-10-05": 11,
       "2021-10-04": 17,
       "2021-10-03": 5,
       "2021-09-30": 14,
@@ -434,7 +434,7 @@
       "2021-08-19": 19,
       "2021-08-18": 152,
       "2021-08-17": 985,
-      "2021-08-16": 43
+      "2021-08-16": 38
     }
   },
   {
@@ -490,7 +490,7 @@
     "timeMonth": 403,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2021-10-05": 1105,
+      "2021-10-05": 1120,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
       "2021-10-02": 1440,
