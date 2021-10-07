@@ -1,7 +1,7 @@
 url: https://repohubdev.tk
-status: up
-code: 200
-responseTime: 393
-lastUpdated: 2021-10-07T14:48:50.520Z
+status: degraded
+code: 500
+responseTime: 6385
+lastUpdated: 2021-10-07T15:09:31.329Z
 startTime: Sun May 02 2021 08:00:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
